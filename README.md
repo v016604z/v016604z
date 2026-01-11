@@ -48,16 +48,15 @@ My journey in software development has led me to work on diverse projects rangin
 - **FAISS** - Vector database for efficient similarity search
 - **LINE Bot Development** - Creating interactive chatbot solutions
 - **WebSocket** - Real-time bidirectional communication
-- **Git & GitHub** - Version control and collaborative development
 - **Cloudflare** - Edge computing and deployment optimization
 
 ## Featured Projects
 
 I've worked on several impactful projects that demonstrate my ability to identify pain points and deliver effective solutions:
 
-- **AI Virtual Streamer Platform** - Real-time interactive AI character with voice and visual responses
+- **AI Virtual Streamer** - Real-time interactive AI character with voice and visual responses
 - **HIV Healthcare Education System** - Comprehensive digital platform improving patient care and education
-- **E-Scooter Management Platform** - Full-stack solution for urban mobility management
+- **E-Scooter Management System** - Full-stack solution for urban mobility management
 
 Check out my complete portfolio for detailed case studies and live demos!
 
@@ -67,7 +66,6 @@ Check out my complete portfolio for detailed case studies and live demos!
 - Financial technology applications with AI
 - Stock market analysis and algorithmic trading
 - Scalable microservices architecture
-- Cloud-native application development
 
 ## Let's Connect!
 
@@ -75,8 +73,6 @@ Check out my complete portfolio for detailed case studies and live demos!
 - **GitHub**: [https://github.com/v016604z](https://github.com/v016604z)
 - **LinkedIn**: [https://linkedin.com/in/李柏達-liboda-09a659280](https://linkedin.com/in/李柏達-liboda-09a659280)
 - **Email**: v016604@gmail.com
-- **Team Project**: [SA Team](https://github.com/SA-Group1)
-
 ---
 
 *Open to collaboration opportunities and innovative projects. Feel free to reach out!*
