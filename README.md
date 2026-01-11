@@ -10,12 +10,10 @@ My journey in software development has led me to work on diverse projects rangin
 - Developing AI-integrated applications using modern web technologies
 - Exploring innovative solutions in healthcare technology and interactive AI systems
 - Building scalable full-stack applications with emphasis on user experience
-- Contributing to open-source projects and collaborative team initiatives
 
 ### Education & Background
 - **National Yunlin University of Science and Technology** - Department of Information Management (2022-2026)
 - Location: Taiwan
-- Email: v016604@gmail.com
 
 ## Tech Stack & Skills
 
@@ -27,7 +25,6 @@ My journey in software development has led me to work on diverse projects rangin
 - React 19 with modern hooks and patterns
 - TypeScript for type-safe development
 - Tailwind CSS v4 for responsive design
-- Vite for blazing-fast build tooling
 
 ### Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -37,7 +34,6 @@ My journey in software development has led me to work on diverse projects rangin
 - Python for AI integration and backend services
 - Spring Boot for enterprise-level applications
 - MySQL for relational database management
-- RESTful API design and implementation
 
 ### AI & Advanced Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
@@ -70,7 +66,6 @@ Check out my complete portfolio for detailed case studies and live demos!
 ## Let's Connect!
 
 - **Portfolio**: [https://v016604z.github.io/portfolio/](https://v016604z.github.io/portfolio/)
-- **GitHub**: [https://github.com/v016604z](https://github.com/v016604z)
 - **LinkedIn**: [https://linkedin.com/in/李柏達-liboda-09a659280](https://linkedin.com/in/李柏達-liboda-09a659280)
 - **Email**: v016604@gmail.com
 ---
