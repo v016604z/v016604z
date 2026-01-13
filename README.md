@@ -1,4 +1,4 @@
-# Hi there, I'm Po-Da Lee (PODA)!
+# Hi there, I'm Bo-Da Li!
 
 ## About Me
 
